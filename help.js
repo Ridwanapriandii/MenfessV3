@@ -18,11 +18,10 @@ return`━━━❲ HALLO-SAYANG ❳━━━
 ┃▤ Date : ${tanggal}
 ┃▤ Terdaftar : ${usernya}
 ┃▤ Room Chat : ${romnya}
-┃▤ Total Fitur : 600+
+┃▤ Total Fitur : 999999999999+
 ┣━━━━━━━━━━━━━
 ┣━❲ 𝙈𝘼𝙄𝙉 𝙈𝙀𝙉𝙐 ❳
 ┃▢ ${prefix}menu
-┃▢ ${prefix}iklan
 ┃▢ ${prefix}rules
 ┃▢ ${prefix}owner
 ┃▢ ${prefix}ownerinfo
@@ -172,33 +171,6 @@ return`━━━❲ HALLO-SAYANG ❳━━━
 ┃▢ ${prefix}fakgirlcek
 ┃▢ ${prefix}kerencek
 ┃▢ ${prefix}wibucek
-┣━━━━━━━━━━━━━━
-┣━❲ 𝘼𝙉𝙄𝙈𝙀 𝙈𝙀𝙉𝙐 ❳
-┃▢ ${prefix}cry
-┃▢ ${prefix}hug
-┃▢ ${prefix}pat
-┃▢ ${prefix}bully
-┃▢ ${prefix}lick
-┃▢ ${prefix}kiss
-┃▢ ${prefix}awoo
-┃▢ ${prefix}waifu
-┃▢ ${prefix}shinobu
-┃▢ ${prefix}cuddle
-┃▢ ${prefix}megumin
-┃▢ ${prefix}slap
-┃▢ ${prefix}neko
-┃▢ ${prefix}wink
-┃▢ ${prefix}dance
-┃▢ ${prefix}poke
-┃▢ ${prefix}glomp
-┃▢ ${prefix}bite
-┃▢ ${prefix}nom
-┃▢ ${prefix}handhold
-┃▢ ${prefix}highfive
-┃▢ ${prefix}wave
-┃▢ ${prefix}smug
-┃▢ ${prefix}smile
-┃▢ ${prefix}bonk
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝘾𝙀𝙍𝙋𝙀𝙉 𝙈𝙀𝙉𝙐 ❳
 ┃▢ ${prefix}cerpen-sejarah
