@@ -98,7 +98,7 @@ var button = [{ buttonId: '!text_grup', buttonText: { displayText: 'Selamat🎉'
 await conn.sendMessage(
 update.id, 
 { 
-text: `*@${num.split("@")[0]} Turun Jabatan Jadi Admin Group , Karena Korupsi Uang Anggota*`,
+text: `*@${num.split("@")[0]} Turun jabatan jadi admin grup*`,
 buttons: button, 
 footer: metadata.subject,
 mentions: [num] })
