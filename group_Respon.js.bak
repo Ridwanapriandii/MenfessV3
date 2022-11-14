@@ -21,7 +21,7 @@ var button = [{ buttonId: '!text_grup', buttonText: { displayText: 'See u Kawan�
 await conn.sendMessage(
 update.id, 
 {
-text: `*Sayonara @${num.split("@")[0]}*\n*kalo mau balik lagi ke group ini , wajib bawa minuman, starbucks, chatime, koma, Boba , cemilan nya chitato, kusuka, lays, tiktik, ovensukro 😊*`,
+text: `*Sayonara @${num.split("@")[0]}*\n*kalo mau balik lagi ke group ini , wajib bawak minuman panther, teh gelas, okky jelly drink , cemilan nya chitato, kusuka, lays, tiktik, ovensukro 😊*`,
 buttons: button,
 footer: metadata.subject, 
 mentions: [num] })
@@ -94,7 +94,7 @@ let metadata = await conn.groupMetadata(update.id)
 let participants = update.participants
 for (let num of participants) {
 if (update.action == 'demote') {
-var button = [{ buttonId: '!text_grup', buttonText: { displayText: 'Kasian😌'}, type: 1 }]
+var button = [{ buttonId: '!text_grup', buttonText: { displayText: 'Kasian🥲'}, type: 1 }]
 await conn.sendMessage(
 update.id, 
 { 
