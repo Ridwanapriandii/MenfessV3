@@ -94,11 +94,11 @@ let metadata = await conn.groupMetadata(update.id)
 let participants = update.participants
 for (let num of participants) {
 if (update.action == 'demote') {
-var button = [{ buttonId: '!text_grup', buttonText: { displayText: 'Kasian😌'}, type: 1 }]
+var button = [{ buttonId: '!text_grup', buttonText: { displayText: 'Astaghfirullah😌'}, type: 1 }]
 await conn.sendMessage(
 update.id, 
 { 
-text: `*@${num.split("@")[0]} Turun Jabatan Jadi Admin Group , Karena Korupsi Uang Anggota*`,
+text: `*@${num.split("@")[0]} Turun Jabatan Jadi Admin Group , Karena Korupsi Uang Anggota 1 Triliun*`,
 buttons: button, 
 footer: metadata.subject,
 mentions: [num] })
